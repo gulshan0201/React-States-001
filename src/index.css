@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+}
+
+/* .page{
+  max-width: 60%;
+  margin: auto;
+} */
+
+header{
+  max-width: 90%;
+  margin-top: 2rem;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+header > span > button{
+  padding: 0.3rem 0.6rem;
+}
+
+.main{
+  margin-top: 6rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 27.2rem;
+}
